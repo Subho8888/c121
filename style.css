@@ -1,0 +1,16 @@
+body
+{
+	text-align: center;
+}
+span
+{
+	font-size: 22px;
+	font-weight: bolder;
+	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+	color: red;
+}
+canvas
+{
+	background: pink;
+	border-radius: 20px;
+}
